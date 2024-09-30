@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @inomiiqbal
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning MCS
-- 💞️ I’m looking to collaborate on Data Analysis
-- 📫 How to reach me through email
-- 😄 Pronouns: Nomi
+- 👋 Hi, I’m @Noman-Iqbal
+- 🌱 I’m currently learning to Data Analytics
+- 📫 How to reach me https://www.linkedin.com/in/noman-iqbal-4b5311207/
 
 <!---
 inomiiqbal/inomiiqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
